@@ -1,0 +1,15 @@
+# Minecraft cache
+*.mcaddon
+*.mcworld
+*.mcpack
+
+# Build artifacts
+*.zip
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+.idea/

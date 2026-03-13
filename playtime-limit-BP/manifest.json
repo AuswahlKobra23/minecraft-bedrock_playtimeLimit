@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Playtime Limit",
+    "description": "Per day limit",
+    "uuid": "19518de4-6a60-41ff-b819-f9f6979d0eee",
+    "version": [1, 0, 0],
+    "min_engine_version":[1,20,0]
+  },
+  "dependencies":[
+    {
+      "module_name":"@minecraft/server",
+      "version":"2.3.0"
+    },
+    {
+      "module_name": "@minecraft/server-ui",
+      "version": "2.0.0"
+    }
+  ],
+  "modules":[
+    {
+      "type":"script",
+      "language":"javascript",
+      "uuid":"4e32de7a-abe6-4a81-aef2-17c11ed03648",
+      "version":[1,0,0],
+      "entry":"scripts/main.js"
+    }
+  ]
+}
