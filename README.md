@@ -68,7 +68,7 @@ Es gibt drei Wege, das Addon zu konfigurieren – von einfach bis technisch:
 Öffnet ein grafisches Menü direkt im Spiel. Admins können dort Limit, Warnzeit und Admin-Liste verwalten – ohne die Welt verlassen zu müssen.
 
 > **Wichtig:** Stelle via Befehl, Menü oder Datei ein, wer die Zeiten ändern darf! 
-Du kannst nur bestimmte Playernamen zulassen oder alle Operatoren (Default) oder die Anpassung "IN-Game" deaktivieren.
+Du kannst nur bestimmte Playernamen zulassen, alle Operatoren (Default) oder die Anpassung nur via Configdatei aktivieren.
 
 ![Menu](assets/Menu.gif)
 
