@@ -1,5 +1,7 @@
 # Playtime Limit — Minecraft Bedrock Addon
 
+![Menu](/assets/Menu.gif)
+
 🇩🇪 [Deutsche Version](#deutsche-version)
 
 
@@ -66,8 +68,6 @@ There are three ways to configure the addon — from easy to technical:
 /playtimelimit:menu
 ```
 Opens a graphical menu directly in-game. Admins can manage the limit, warning time, and admin list without leaving the world.
-
-![Menu](https://github.com/AuswahlKobra23/minecraft-bedrock_playtimeLimit/tree/main/assets/Menu.gif)
 
 ### 💬 Commands
 Quick adjustments directly via chat:
@@ -215,7 +215,6 @@ Es gibt drei Wege, das Addon zu konfigurieren – von einfach bis technisch:
 > **Wichtig:** Stelle via Befehl, Menü oder Datei ein, wer die Zeiten ändern darf! 
 Du kannst nur bestimmte Playernamen zulassen oder alle Operatoren (Default) oder die Anpassung "IN-Game" deaktivieren.
 
-![Menu](https://github.com/AuswahlKobra23/minecraft-bedrock_playtimeLimit/tree/main/assets/Menu.gif)
 
 ### 💬 Befehle
 Schnelle Anpassungen direkt per Chat:
