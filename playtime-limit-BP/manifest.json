@@ -4,8 +4,8 @@
     "name": "Playtime Limit",
     "description": "Per day limit",
     "uuid": "19518de4-6a60-41ff-b819-f9f6979d0eee",
-    "version": [1, 0, 0],
-    "min_engine_version":[1,20,0]
+    "version": [1, 0, 1],
+    "min_engine_version":[1,21,40]
   },
   "dependencies":[
     {
@@ -22,7 +22,7 @@
       "type":"script",
       "language":"javascript",
       "uuid":"4e32de7a-abe6-4a81-aef2-17c11ed03648",
-      "version":[1,0,0],
+      "version":[1,0,1],
       "entry":"scripts/main.js"
     }
   ]
