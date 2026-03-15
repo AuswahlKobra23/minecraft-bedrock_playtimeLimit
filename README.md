@@ -138,14 +138,12 @@ On startup, the addon decides which settings apply:
 This addon is free to use and redistribute. You may modify it, but please credit the original author.
 
 This is not an official Minecraft product and is not affiliated with Mojang or Microsoft.
+---
 
-
+<a name="deutsche-version"></a>
 ## Deutsche Version
 
-
 # Playtime Limit — Minecraft Bedrock Addon
-
-🇬🇧 [English version](README_en.md)
 
 > NOT AN OFFICIAL MINECRAFT PRODUCT. NOT APPROVED BY OR ASSOCIATED WITH MOJANG OR MICROSOFT.
 
